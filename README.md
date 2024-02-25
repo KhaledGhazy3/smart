@@ -1,2 +1,2 @@
-# smart
+# iti
 this frist repo
